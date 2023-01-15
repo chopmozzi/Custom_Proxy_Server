@@ -2,7 +2,7 @@
 ## Introduction
 - C로 작성된 Proxy_Server입니다.
 - Proxy Server에 대한 내용과 세부설계과정은 해당 링크에서 확인할 수 있습니다.
-- `https://abalone-fahrenheit-80e.notion.site/Custom_Proxy_Server-in-C-7087d48c6039476ca45dbcde600f48e2`
+- [Proxy_Server(notion)](https://abalone-fahrenheit-80e.notion.site/Custom_Proxy_Server-in-C-7087d48c6039476ca45dbcde600f48e2)
 ---
 ## How to run?
 - Ubuntu 16.04 환경에서 제작되었습니다.
@@ -22,7 +22,7 @@
 - http주소 접속 시 생긴 log를 기록한다.
 
 ![결과물 예시](/image/4.PNG)
-- `http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html`
+- http://gaia.cs.umass.edu/wireshark-labs/HTTP-wireshark-file4.html
 - 위 링크에 접속 시 결과창이다.
 
 ![hostname접근 시 load되는 파일들](/image/5.PNG)
