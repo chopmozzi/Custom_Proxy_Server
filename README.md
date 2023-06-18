@@ -6,6 +6,7 @@
 ---
 ## How to run?
 - Ubuntu 16.04 환경에서 제작되었습니다.
+- 필요에 따라 sudo apt-get install libssl-dev의 설치가 필요합니다(SHA1).
 - Ubuntu내 FireFox의 환경설정이 필요합니다.
 - Makefile을 통해 실행파일을 생성할 수 있습니다.
 - `./proxy_cache`을 실행하여 proxy server을 동작시킵니다.
