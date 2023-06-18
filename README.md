@@ -13,11 +13,23 @@
 - http request를 보내 proxy server에 대한 동작을 확인합니다.
 ---
 ## Example
+![FireFox Setting 예시1](/image/10.PNG)
+- FireFox의 Preferences창으로 들어간다.
+
+![FireFox Setting 예시2](/image/11.PNG)
+- Network Proxy의 Settings로 들어간다.
+
+![FireFox Setting 예시3](/image/12.PNG)
+- Port 번호를 39999, ip를 ifconfig를 통해 나온 값으로 지정해준다.
+
 ![실행 예시](/image/1.PNG)
 - 실행파일을 실행한 후 FireFox browser에서 http주소를 실행한다.
 
 ![cache파일 예시](/image/2.PNG)
 - 필요한 파일의 갯수만큼 cache파일을 생성한다.
+
+![cache파일 내부](/image/9.PNG)
+- cache파일의 예시이다.
 
 ![log파일 예시](/image/3.PNG)
 - http주소 접속 시 생긴 log를 기록한다.
