@@ -1,7 +1,7 @@
 # Custom_Proxy_Server in C
 ## Introduction
 - C로 작성된 Proxy_Server입니다.
-- Proxy Server에 대한 내용과 세부설계과정은 해당 링크에서 확인할 수 있습니다.
+- Proxy Server에 대한 내용과 세부동작은 해당 링크에서 확인할 수 있습니다.
 - [Proxy_Server(notion)](https://abalone-fahrenheit-80e.notion.site/Custom_Proxy_Server-in-C-7087d48c6039476ca45dbcde600f48e2)
 ---
 ## How to run?
